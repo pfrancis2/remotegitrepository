@@ -14,7 +14,9 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Entering to test class::::");
+		System.out.println("Entering to test class::::");
+		HelloWorld helloWorld = new HelloWorld();
+		helloWorld.check();
 	}
 
 }
